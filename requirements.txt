@@ -6,5 +6,5 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
-opencv-python
+opencv-python==4.5.3.56  # or another stable version
 pillow
